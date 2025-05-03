@@ -116,6 +116,3 @@ This project uses:
 - CesiumJS for 3D globe visualization
 - Tailwind CSS for styling
 - Google Gemini API for AI-generated quiz content
-
-License
-[License information would go here]
