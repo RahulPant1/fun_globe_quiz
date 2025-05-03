@@ -55,7 +55,7 @@ npm run dev
 
 Open your browser to http://localhost:3000
 
-Project Structure
+## Project Structure
 
 fun_globe_quiz/
 ├── .env                         # Store API Key here (gitignored)
