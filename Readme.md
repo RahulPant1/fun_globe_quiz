@@ -1,4 +1,4 @@
-Earth Explorer - A Geographic Adventure Game
+# Earth Explorer - A Geographic Adventure Game
 An engaging educational web application designed to teach children (ages 8-12) geography through interactive exploration and gamified quizzes.
 Project Overview
 Earth Explorer features:
