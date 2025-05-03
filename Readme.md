@@ -1,7 +1,7 @@
 # Earth Explorer - A Geographic Adventure Game
 An engaging educational web application designed to teach children (ages 8-12) geography through interactive exploration and gamified quizzes.
 
-![Alt text describing the GIF] https://github.com/RahulPant1/fun_globe_quiz/blob/main/src/Globe-Game-1.gif
+![Demonstration of app] https://github.com/RahulPant1/fun_globe_quiz/blob/main/src/Globe-Game-1.gif
 
 
 Project Overview
